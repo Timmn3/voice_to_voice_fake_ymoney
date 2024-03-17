@@ -1,0 +1,14 @@
+python-dotenv==0.20.0
+aiogram~=2.21
+tzlocal~=4.2
+pyQiwiP2P~=2.0.6
+loguru~=0.6.0
+gino~=1.0.1
+SQLAlchemy~=1.3.24
+asyncpg~=0.27.0
+soundfile~=0.12.1
+mutagen~=1.47.0
+pyarmor~=8.3.11
+mutagen~=1.47.0
+yoomoney~=0.1.0
+./package-1.0.tar.gz
